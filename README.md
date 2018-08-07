@@ -11,9 +11,7 @@ For details, please see
   several pre-trained models from
   [here](https://github.com/rezoo/illustration2vec/releases),
   or execute ``get_models.sh`` in this repository).
-* ``numpy`` and ``scipy``
-* ``PIL`` (Python Imaging Library) or its alternatives (e.g., ``Pillow``) 
-* ``skimage`` (Image processing library for python)
+* `pip3 install -r requirements.txt`
 
 In addition to the above libraries and the pre-trained models, `i2v` requires
 either ``caffe`` or ``chainer`` library. If you are not familiar with deep
